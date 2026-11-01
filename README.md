@@ -45,7 +45,7 @@ This project analyzes customer shopping behavior using **Python, PostgreSQL, SQL
 - 📂 `Customer_Shopping_Behavior.csv` | Original dataset |
 - 🐍 `Customer_Shopping_Behavior.ipynb` | Python data cleaning and EDA |
 - 💻 `Customer_Shopping_Behavior.sql` | SQL queries using PostgreSQL |
-- 📑 `Customer_Shopping_Behavior_Analysis.pdf` | Detailed project analysis report |
+- 📑 `Customer_Shopping_Behavior_Report.pdf` | Detailed project analysis report |
 - 📈 `Customer_Shopping_Behavior_Dashboard.pdf` | Power BI dashboard |
 
 🎯 Conclusion
